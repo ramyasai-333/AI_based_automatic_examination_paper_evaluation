@@ -47,17 +47,14 @@ Libraries Used:
 ---
 
 ## 📂 Project Structure
-'''
-
+```
 AI-Automatic-Exam-Evaluation/
 │
 ├── Source_Code/
 ├── Documentation/
 ├── README.md
 └── .gitignore
-'''
-
----
+```
 
 ## 🚀 How to Run the Project
 
