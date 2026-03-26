@@ -47,6 +47,7 @@ Libraries Used:
 ---
 
 ## 📂 Project Structure
+'''
 
 AI-Automatic-Exam-Evaluation/
 │
@@ -54,6 +55,7 @@ AI-Automatic-Exam-Evaluation/
 ├── Documentation/
 ├── README.md
 └── .gitignore
+'''
 
 ---
 
